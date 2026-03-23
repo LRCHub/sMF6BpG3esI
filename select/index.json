@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Kill Shot",
+  "base_artist": "ITZY",
+  "createdAt": "2026-03-23T20:25:29.442289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kill Shot",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/01_Kill_Shot_ITZY.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kill Shot",
+      "artist": "ITZY (있지)",
+      "has_synced": true,
+      "path": "select/02_Kill_Shot_ITZY_(있지).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kill Shot",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/03_Kill_Shot_ITZY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kill Shot",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/04_Kill_Shot_ITZY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kill Shot",
+      "artist": "Genuflect",
+      "has_synced": true,
+      "path": "select/05_Kill_Shot_Genuflect.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kill Shot",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/pl_01_Kill_Shot_ITZY.txt"
+    }
+  ]
+}
